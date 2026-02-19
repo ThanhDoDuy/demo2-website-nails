@@ -1,49 +1,49 @@
 {
   "salonName": "Glossy Nails Studio",
   "tagline": "Where your nails become art",
-  "heroImage": "https://images.unsplash.com/photo-1604654894610-df63bc536371?w=1200",
+  "heroImage": "https://res.cloudinary.com/dpb1c1mnw/image/upload/v1771482826/nail-salons/69958a5477e79544db8671f8/kjwifvzld02notia64pk.png",
   "services": [
     {
       "id": "gel-manicure",
       "name": "Gel Manicure",
-      "price": "$32",
+      "price": "$30",
       "description": "Long-lasting gel polish with expert application",
-      "image": "https://images.unsplash.com/photo-1522335789203-aabd1fc54bc9?w=600"
+      "image": "https://res.cloudinary.com/dpb1c1mnw/image/upload/v1771482856/nail-salons/69958a5477e79544db8671f8/g68mvnznvfzbcylmh72o.png"
     },
     {
       "id": "gel-pedicure",
       "name": "Gel Pedicure",
-      "price": "$38",
+      "price": "$50",
       "description": "Relaxing pedicure with premium gel finish",
-      "image": "https://images.unsplash.com/photo-1610992015732-2449b76344bc9?w=600"
+      "image": "https://res.cloudinary.com/dpb1c1mnw/image/upload/v1771482940/nail-salons/69958a5477e79544db8671f8/jowrqrc6q018ooov1vr1.png"
     },
     {
       "id": "nail-art",
       "name": "Nail Art Design",
       "price": "$45",
       "description": "Custom designs with intricate details and patterns",
-      "image": "https://images.unsplash.com/photo-1604654894610-df63bc536371?w=600"
+      "image": "https://res.cloudinary.com/dpb1c1mnw/image/upload/v1771483011/nail-salons/69958a5477e79544db8671f8/tszlpat9eii7vfsgnxry.png"
     },
     {
       "id": "acrylic",
       "name": "Acrylic Extensions",
-      "price": "$42",
+      "price": "$40",
       "description": "Durable extensions with natural appearance",
-      "image": "https://images.unsplash.com/photo-1597848212624-a19eb35e2651?w=600"
+      "image": "https://res.cloudinary.com/dpb1c1mnw/image/upload/v1771483058/nail-salons/69958a5477e79544db8671f8/sbi8gocdaenduvtpfmaj.png"
     },
     {
       "id": "dip-powder",
       "name": "Dip Powder Manicure",
-      "price": "$28",
+      "price": "$30",
       "description": "Vibrant colors that last up to 4 weeks",
-      "image": "https://images.unsplash.com/photo-1631889993959-41b4e9c6e3c5?w=600"
+      "image": "https://res.cloudinary.com/dpb1c1mnw/image/upload/v1771483121/nail-salons/69958a5477e79544db8671f8/a9c8xzvggeci6t9dyhf2.png"
     },
     {
       "id": "nail-care",
       "name": "Nail Care Treatment",
       "price": "$25",
       "description": "Nourishing treatment for healthy, strong nails",
-      "image": "https://images.unsplash.com/photo-1570172619644-dfd03ed5d881?w=600"
+      "image": "https://res.cloudinary.com/dpb1c1mnw/image/upload/v1771483149/nail-salons/69958a5477e79544db8671f8/erobw2yfsq5tqh15w679.png"
     }
   ],
   "about": "Glossy Nails Studio is a cozy Korean-inspired nail salon dedicated to creating the perfect manicure and pedicure experience. Our skilled technicians use premium products and latest techniques to ensure your nails look and feel beautiful. We believe in sustainable beauty practices and creating a welcoming space for everyone.",
