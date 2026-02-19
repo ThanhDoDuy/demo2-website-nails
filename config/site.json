@@ -1,0 +1,78 @@
+{
+  "salonName": "Glossy Nails Studio",
+  "tagline": "Where your nails become art",
+  "heroImage": "https://images.unsplash.com/photo-1604654894610-df63bc536371?w=1200",
+  "services": [
+    {
+      "id": "gel-manicure",
+      "name": "Gel Manicure",
+      "price": "$32",
+      "description": "Long-lasting gel polish with expert application",
+      "image": "https://images.unsplash.com/photo-1522335789203-aabd1fc54bc9?w=600"
+    },
+    {
+      "id": "gel-pedicure",
+      "name": "Gel Pedicure",
+      "price": "$38",
+      "description": "Relaxing pedicure with premium gel finish",
+      "image": "https://images.unsplash.com/photo-1610992015732-2449b76344bc9?w=600"
+    },
+    {
+      "id": "nail-art",
+      "name": "Nail Art Design",
+      "price": "$45",
+      "description": "Custom designs with intricate details and patterns",
+      "image": "https://images.unsplash.com/photo-1604654894610-df63bc536371?w=600"
+    },
+    {
+      "id": "acrylic",
+      "name": "Acrylic Extensions",
+      "price": "$42",
+      "description": "Durable extensions with natural appearance",
+      "image": "https://images.unsplash.com/photo-1597848212624-a19eb35e2651?w=600"
+    },
+    {
+      "id": "dip-powder",
+      "name": "Dip Powder Manicure",
+      "price": "$28",
+      "description": "Vibrant colors that last up to 4 weeks",
+      "image": "https://images.unsplash.com/photo-1631889993959-41b4e9c6e3c5?w=600"
+    },
+    {
+      "id": "nail-care",
+      "name": "Nail Care Treatment",
+      "price": "$25",
+      "description": "Nourishing treatment for healthy, strong nails",
+      "image": "https://images.unsplash.com/photo-1570172619644-dfd03ed5d881?w=600"
+    }
+  ],
+  "about": "Glossy Nails Studio is a cozy Korean-inspired nail salon dedicated to creating the perfect manicure and pedicure experience. Our skilled technicians use premium products and latest techniques to ensure your nails look and feel beautiful. We believe in sustainable beauty practices and creating a welcoming space for everyone.",
+  "reviews": [
+    {
+      "text": "The most relaxing nail experience ever! The staff is so friendly and the salon has such a cute, calming atmosphere. I love coming here!",
+      "author": "Sarah M.",
+      "rating": 5
+    },
+    {
+      "text": "Amazing nail art designs and attention to detail. The technicians really listen to what you want and execute it perfectly.",
+      "author": "Jessica L.",
+      "rating": 5
+    },
+    {
+      "text": "Best gel manicure I've had in years! Love the Korean aesthetic vibe. Will definitely be back.",
+      "author": "Amanda K.",
+      "rating": 5
+    },
+    {
+      "text": "The salon is so beautifully decorated and the staff makes you feel so welcomed. My nails look gorgeous!",
+      "author": "Emily R.",
+      "rating": 5
+    }
+  ],
+  "contact": {
+    "phone": "(555) 123-4567",
+    "address": "123 Cherry Lane, Beauty District, NY 10001",
+    "hours": "Tue-Sun 10AM-7PM | Mon Closed",
+    "email": "hello@glossynails.com"
+  }
+}
